@@ -18,3 +18,10 @@ Inass A. Husien
 Faculty of Information Technology
 Misurata University
 e.ismail@it.misuratau.edu.ly
+
+# Setup
+1. You must have Python 3.5>=
+2. Open Command Propt in Windows
+2. Install the requirements in the requirements.txt using ``` pip install -r requirements.txt``` 
+3. Run ```mainwindow_work.py``` using ```python3 mainwindow_work.py```
+4. Use WASec! :D
