@@ -1,6 +1,6 @@
 beautifulsoup4==4.6.0
 bs4==0.0.1
-certifi==2018.4.16
+certifi==2022.12.7
 HTMLParser==0.0.2
 httplib2==0.10.3
 PyQt5==5.10.1
